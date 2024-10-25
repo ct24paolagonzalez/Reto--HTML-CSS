@@ -1,0 +1,41 @@
+body {
+    background-color: #001f3f; 
+    color: #FFA500; 
+    font-family: 'Abadi', sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #003366;
+}
+
+h1, h2 {
+    color: #FFA500; 
+}
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #00274D; 
+    border-radius: 8px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #003366;
+}
+
+ul {
+    list-style-type: square;
+}
+
+@font-face {
+    font-family: 'Abadi';
+    src: url('AbadiMTCondensedLight.woff') format('woff'); 
+}
+
